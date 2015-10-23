@@ -566,8 +566,8 @@
         <activeByDefault>false</activeByDefault>
       </activation>
       <properties>
-        <hadoop.version>2.3.0-mapr-4.0.0-FCS</hadoop.version>
-        <yarn.version>2.3.0-mapr-4.0.0-FCS</yarn.version>
+        <hadoop.version>2.5.1.31175.GA-1</hadoop.version>
+        <yarn.version>2.5.1.31175.GA-1</yarn.version>
         <jets3t.version>0.7.1</jets3t.version>
       </properties>
       <dependencies>
@@ -585,7 +585,7 @@
         <dependency>
           <groupId>org.apache.zookeeper</groupId>
           <artifactId>zookeeper</artifactId>
-          <version>3.4.5-mapr-1406</version>
+          <version>4.1.0.31175.GA-1</version>
         </dependency>
       </dependencies>
     </profile>
